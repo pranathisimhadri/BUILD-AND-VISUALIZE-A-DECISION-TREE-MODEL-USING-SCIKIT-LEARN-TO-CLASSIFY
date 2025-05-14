@@ -1,16 +1,15 @@
 # BUILD-AND-VISUALIZE-A-DECISION-TREE-MODEL-USING-SCIKIT-LEARN-TO-CLASSIFY  OR PREDICT OUTCOMES ON A CHOSEN DATASET
+COMPANY : CODTECH IT SOLUTIONS
 
-*COMPANY *: CODTECH IT SOLUTIONS
+NAME :Pranathi Simhadri
 
-*NAME *:Pranathi Simhadri
+INTERN ID : CT04DM549
 
-"INTERN ID *: CT04DM549
+DOMAIN : MACHINE LEARNING
 
-*DOMAIN *: MACHINE LEARNING
+DURATION : 4 WEEEKS
 
-*DURATION *: 4 WEEEKS
-
-*MENTOR *: NEELA SANTOSH
+MENTOR : NEELA SANTOSH
 
 ## 🎯 Project: Movie Recommendation via Matrix Factorization in PyTorch
 
@@ -43,12 +42,12 @@ Use matrix factorization to decompose the user-item rating matrix into two low-d
 * Dot product predicts the rating.
 * Loss: Mean Squared Error (MSE).
 
-### 4. **Training**
+### 4. Training
 
 * Runs on GPU if available via `torch.device("cuda")`.
 * Efficient training for large datasets.
 
-### 5. **Saving & Predicting**
+### 5. Saving & Predicting
 
 * Save/load model with `torch.save()` and `torch.load()`.
 * Predict ratings or generate the full rating matrix.
@@ -57,19 +56,19 @@ Use matrix factorization to decompose the user-item rating matrix into two low-d
 
 ## ⚙️ Features
 
-* ✅ Matrix factorization with collaborative filtering
-* ⚡ CUDA support for faster training
-* 💾 Save/load model checkpoints
-* 📈 Predict individual ratings or full matrix
-* 🧱 Easy to extend (e.g., top-N recs, RMSE, implicit feedback)
+#✅ Matrix factorization with collaborative filtering
+# ⚡ CUDA support for faster training
+# 💾 Save/load model checkpoints
+# 📈 Predict individual ratings or full matrix
+# 🧱 Easy to extend (e.g., top-N recs, RMSE, implicit feedback)
 
 ---
 
 ## 📦 Ideal For
 
-* Learning recommender systems in PyTorch
-* Personal/movie recommendation tools
-* Academic/research use cases
-* Prototyping scalable recommenders
+#Learning recommender systems in PyTorch
+# Personal/movie recommendation tools
+# Academic/research use cases
+# Prototyping scalable recommenders
 
 
