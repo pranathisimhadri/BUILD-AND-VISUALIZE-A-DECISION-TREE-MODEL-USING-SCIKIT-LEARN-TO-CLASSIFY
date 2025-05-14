@@ -72,3 +72,7 @@ Use matrix factorization to decompose the user-item rating matrix into two low-d
 # Prototyping scalable recommenders
 
 
+#OUTPU
+
+![Image](https://github.com/user-attachments/assets/cfde1bae-a006-4aa1-b740-562ad86a555a)
+
